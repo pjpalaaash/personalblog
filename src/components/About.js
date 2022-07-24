@@ -20,7 +20,6 @@ export default function About() {
             have a strong potential to compete in a professional market. The belief that motivates me to code and
             contribute to the community is that my solutions would directly affect society in some way and might help in
             making it a better place to live.</p>
-           <p class="mb-5  ">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p> 
 
           <p>
 
