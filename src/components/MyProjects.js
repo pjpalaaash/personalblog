@@ -17,7 +17,7 @@ export default function MyProjects() {
       <div class="row">
 
         <div class="col-md-6 col-lg-4 text-center mb-5">
-          <div class="card">
+          <div class="card mx-2">
             <div class="content">
               <div class="front">
                 <h3 class="card-head title">Text Changer</h3>
@@ -34,7 +34,7 @@ export default function MyProjects() {
           </div>
         </div>
         <div class="col-md-6 col-lg-4 text-center mb-5">
-          <div class="card">
+          <div class="card mx-2">
             <div class="content">
               <div class="front">
                 <h3 class=" card-head title">Wikipedia Text Analysis</h3>
@@ -51,7 +51,7 @@ export default function MyProjects() {
           </div>
         </div>
         <div class="col-md-6 col-lg-4 text-center mb-5">
-          <div class="card">
+          <div class="card mx-2">
             <div class="content">
               <div class="front">
                 <h3 class="card-head title">Tic Tac Toe</h3>

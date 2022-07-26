@@ -64,7 +64,7 @@ body {
 .card-head.title {
   transform: translateZ(5rem);
   font-size: 2.5rem;
-  font-weight: 500;
+  font-weight: 300;
   padding: 5px;
    
 }
@@ -80,7 +80,7 @@ body {
 
 .description {
   transform: translateZ(3rem);
-  font-weight: 500;
+  font-weight: 300;
 }
 
 .description a {
